@@ -1,0 +1,24 @@
+{
+  "name": "webe-lab1-bangladeshi-edtech-leaderboard",
+  "version": "1.0.0",
+  "description": "MERN Single Page Application (SPA) - Top Bangladeshi EdTech Startups Leaderboard & Admin Dashboard",
+  "scripts": {
+    "install:all": "npm --prefix backend install && npm --prefix frontend install",
+    "seed": "npm --prefix backend run seed",
+    "backend": "npm --prefix backend start",
+    "backend:dev": "npm --prefix backend run dev",
+    "frontend": "npm --prefix frontend run dev"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "express",
+    "mongodb",
+    "edtech",
+    "ajax",
+    "leaderboard",
+    "bangladesh"
+  ],
+  "author": "",
+  "license": "ISC"
+}
